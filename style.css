@@ -1,4 +1,7 @@
-
+*{
+    margin: 0;
+    overflow: hidden;
+}
 #gameContainer{
     background-color: rgb(12, 105, 105);
   text-align: center;
